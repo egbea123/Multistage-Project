@@ -2,7 +2,7 @@
 This is a project to practice Multistage pipeline jenkins project
 The application is based on java to generate random ticket numbers,
 spring boot to create project structure for the ticket generator,
-and maven to compile the program
+and maven to compile the program. Give it a try
 
 **Tool required for the the application:**
 1. Java 11
