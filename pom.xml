@@ -12,12 +12,7 @@
         <javafx.version>13.0.2</javafx.version>
         <spring.boot.version>2.2.5.RELEASE</spring.boot.version>
         <spring.security.version>5.1.5.RELEASE</spring.security.version>
-    </properties>
-  <properties>
-        <baseNexusURL>${baseNexusURL}</baseNexusURL>
-        <targetRepositoryID>${repositoryId}</targetRepositoryID>
-        <package.final.name>${project.artifactId}</package.final.name>
-    </properties>
+    </properties
   <dependencies>
     <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test -->
    <dependency>
