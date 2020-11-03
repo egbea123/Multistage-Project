@@ -18,12 +18,12 @@ and maven to compile the program
    - Run mvn clean install
 
 **Create an executable jar**
-- With the fallowing command it will generate an executable jar in the target directory for you: `mvn clean package`
+-If a user want to generate an executable jar in the target directory using the command: `mvn clean package`
 
 - Run the application Random number ticker application
     $java -jar target/executable jar
 
-//Git commands push the project to Remote repo
+//Git commands to push the project to Remote repo
 To clone the project to local system
 https://github.com/egbea123/Multistage-Project.git
 git init
