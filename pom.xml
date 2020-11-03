@@ -45,9 +45,7 @@
         </configuration>
 </plugin>
 </plugins>
-  
-</build>
-<distributionManagement>
+  <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>corp1</id>
@@ -63,4 +61,6 @@
       <layout>legacy</layout>
     </snapshotRepository>
 </distributionManagement>
+</build>
+
 </project>
